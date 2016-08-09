@@ -1,6 +1,6 @@
 {
   "name": "invertible",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Create invertible code, compose it, and create invertible applications",
   "main": "src/index.js",
   "scripts": {
